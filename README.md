@@ -1,2 +1,2 @@
 # python
-Python Training Project in Python
+Python Training Project
